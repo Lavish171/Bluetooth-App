@@ -1,5 +1,6 @@
 package com.example.elavi.bluetoothapp;
-
+//this only contains the information about the bluetooth devices ,see the another .java file which also includes the code so that the 
+//bluetooth devices get listed in the list view which also contains the signal strength information
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothDevice;
 import android.content.BroadcastReceiver;
